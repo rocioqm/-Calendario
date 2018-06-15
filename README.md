@@ -19,7 +19,13 @@ Del número de peruanos que salieron de nuestro país el 51.4% son mujeres y el 
 
 Como nuevos destinos favoritos de los peruanos al salir están Brasil, Holanda y Colombia.
 
+Según Migraciones se emiten alrededor de 2200 pasaportes biométricos al día en todo el país. 
 
+En el año 2016, en el mes de julio que se inició a emitir el pasaporte se dieron 240 mil pasaportes. Para el año 2017 se emitieron 850  mil pasaportes, lo que supera la demanda pronosticada por migraciones que calculaban 400 mil pasaportes por año. 
+
+En el mes de abril del presente año se llegó a la cifra de más de un millón de pasaportes biométricos entregados.
+
+Se resalta en todo el mundo la entrega del pasaporte en un solo día. 
 
 ### Benchmarking
 

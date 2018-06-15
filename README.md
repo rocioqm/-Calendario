@@ -9,3 +9,9 @@ Cuando sacamos una cita para el médico, compramos un pasaje de avión o de bus,
 
 Escoge un mercado, cualquiera de los mencionamos anteriormente, y encuentra cuál es la mejor manera de mostrar un calendario, tanto en desktop como en móvil.
 
+## Plan de Investigación:
+
+### Research Cuantitativo
+
+### Benchmarking
+

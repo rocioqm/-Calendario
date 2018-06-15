@@ -27,10 +27,22 @@ En el mes de abril del presente año se llegó a la cifra de más de un millón 
 
 Se resalta en todo el mundo la entrega del pasaporte en un solo día. 
 
-### Benchmarking
+* Fuentes:
 
-![Con titulo](assets/Captura.PNG "KO")
+  * [Migraciones emite 2.200 pasaportes biométricos al día](https://elcomercio.pe/peru/migraciones-emite-2-200-pasaportes-biometricos-dia-142243 "titulo")
+
+  * [Migraciones: se han emitido más de un millón de Pasaportes Electrónicos](https://elcomercio.pe/peru/migraciones-han-emitido-millon-pasaportes-electronicos-noticia-517356 "titulo")
+
+  * [Perú es de los pocos países donde pasaporte se obtiene en un día](https://elcomercio.pe/peru/peru-paises-pasaporte-obtiene-dia-noticia-484791 "titulo")
+
+  * [MOVIMIENTOS MIGRATORIOS DE INGRESO Y SALIDA, CIUDADANOS PERUANOS, 2008-2016 (*)](https://www.migraciones.gob.pe/estadisticas/1%201%20MM%20PERUANOS.pdf "titulo")
+
+   * [ ESTADÍSTICAS DE LA EMIGRACIÓN INTERNACIONAL DE PERUANOS E INMIGRACIÓN DE EXTRANJEROS, 1990 – 2015](https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1423/libro.pdf "titulo")
 
 ### User Persona
 
 
+
+### Benchmarking
+
+![Con titulo](assets/Captura.PNG "KO")

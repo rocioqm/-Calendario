@@ -13,5 +13,12 @@ Escoge un mercado, cualquiera de los mencionamos anteriormente, y encuentra cuá
 
 ### Research Cuantitativo
 
+
+
 ### Benchmarking
+
+![Con titulo](assets/Captura.PNG "KO")
+
+### User Persona
+
 

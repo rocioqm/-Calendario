@@ -46,3 +46,19 @@ Se resalta en todo el mundo la entrega del pasaporte en un solo día.
 ### Benchmarking
 
 ![Con titulo](assets/Captura.PNG "KO")
+
+## Prototipos
+
+### En papel
+
+![Con titulo](assets/1.png "KO")
+
+![Con titulo](assets/2.jpeg "KO")
+
+![Con titulo](assets/3.jpeg "KO")
+
+### Digital
+
+#### Mobile: https://marvelapp.com/4bc0bga/screen/44388154
+
+#### Desktop: https://marvelapp.com/3ia5aaj/screen/44388237
